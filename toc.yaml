@@ -921,11 +921,7 @@ toc:
             topics:
             - faq-vpc.md
             - faq-auto-scale.md
-            - topicgroup:
-                id: faq-bare-metal
-                label: FAQ for bare metal servers
-                topics:
-                - bare_metal_server_faq.md
+            - bare_metal_server_faq.md
             - faq-dedicated-host.md
             - topicgroup:
                 id: faq-storage
